@@ -1,4 +1,4 @@
-##TODO: Presentation by Rachel
+##Presentation by Rachel
 
 
 ###Vertical Slide 1
